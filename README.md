@@ -1,5 +1,6 @@
 # my-repo
 This is my first repo
 <br>
-written by - Krushna
+written by - Krushna Boinwad
+
 
